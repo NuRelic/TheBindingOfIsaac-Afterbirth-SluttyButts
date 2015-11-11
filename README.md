@@ -1,5 +1,12 @@
 # TheBindingOfIsaac-Afterbirth-SluttyButts
 This is a Slutty Butts Mod
+
+This mod is designed to allow Binding of Isaac: Afterbirth Racers to play the game in a more competive/consistent fashion. 
+
+To install the mod copy the itempool.xml, players.xml, and pocketitems.xml from the download into the resources folder of your Binding of Isaac:Afterbirth folder (Ex. C:\Steam\steamapps\common\The Binding of Isaac Rebirth\resources)
+
+Below are the changes made in the mod. It is intended that you play this mod on Lazarus. 
+
 Item Pool Changes:
 	Boss - 
 		Removed: Little Steven, Experimental Treatment, and Coin Purse
@@ -24,6 +31,3 @@ Pocket Items -- Degaz
 Consumables -- Bombs = 1
 Trinkets -- N/A
 
-Rules:
-No Eden's Blessing BS Before Race 
----(Potentially double reset if it is picked up and you reset) [Consesus]
