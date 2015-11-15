@@ -8,18 +8,25 @@ To install the mod copy the itempool.xml, players.xml, and pocketitems.xml from 
 1.1
 
 Miscellaneous Updates
+
 		All updates to Afterbirth with the finding of Keeper have been absorbed.
 			As of now no itempools have been changed in relation to these items. 
+			
 		Itempools.xml has every item label correctly to assist further modding.
 		
 Fixes
-		Pill - Retro Vision wasn't properly removed, as of now it is put back in the mod by name (It was saying power pills but giving retro vision)
+		Pill - 
+		
+		Retro Vision wasn't properly removed, as of now it is put back in the mod by name (It was saying power pills but giving retro vision)
 	
 Item Pool Changes:
+
 		Treasure Room - 
 			Removed: Laz Rags
+			
 		Angel Deal - 
 			Removed: Laz Rags
+			
 		Shop - 
 			** Mapping Weight increased from 1 to 1.5
 			Removed: The Candle, Red Candle
