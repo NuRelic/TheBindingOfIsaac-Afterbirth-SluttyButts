@@ -15,6 +15,7 @@ Miscellaneous Updates
 		Itempools.xml has every item label correctly to assist further modding.
 		
 Fixes
+
 		Pill - 
 		
 		Retro Vision wasn't properly removed, as of now it is put back in the mod by name (It was saying power pills but giving retro vision)
@@ -35,11 +36,17 @@ Item Pool Changes:
 1.0
 
 Mod Name: Slutty Butts 
+
 	Character -- Lazarus
+	
 	Starting Items -- More Options and D6
+	
 	Hearts -- 0 (Die on demand!)
+	
 	Pocket Items -- Degaz
+	
 	Consumables -- Bombs = 1
+	
 	Trinkets -- N/A
 
 	Item Pool Changes:
