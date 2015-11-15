@@ -63,5 +63,5 @@ Mod Name: Slutty Butts
 			Removed: The Bible, The Ladder, Mom's Bottle of Pills, Little Baggy, Broken Watch, Wooden Nickel, Glowing Hour Glass, Night Light, Mom's Coin Purse, Restock, BOGO Bombs
 			Added: BotM, Lusty Blood, Bloody Lust, Steven, Chemical Peel, 8 Inch Nails, Sad Onion, Sad Bombs, Poison Bombs (Removed from red chests), Book Of Secrets
 		Pill - 
-			Remove Retro Vision
+			Remove Retro Vision [Note: Reverted in 1.1]
 
